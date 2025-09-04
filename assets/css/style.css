@@ -1,6 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Varela+Round);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700);
-
 *,
 *::after,
 *::before {
@@ -11,7 +10,6 @@ html,
 body {
   height: 100%;
 }
-
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
@@ -60,9 +58,9 @@ a {
   padding-top: 40px;
 
     .picture-resume-wrapper {
-      width: 40%;
-      display: block;
-      float: left;
+         width: 40%;
+   display: block;
+  float: left;
       text-align: center;
     }
 
