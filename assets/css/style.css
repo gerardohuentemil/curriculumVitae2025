@@ -4,7 +4,7 @@
  }
 
  .container {
-     background-color: #E9E7EA;
+     background-color: white;
      width: 1000px;
      max-width: 100%;
      margin: auto;
@@ -66,7 +66,7 @@
  .name .contact li {
      padding: 5px 0;
      transform: translate(-40px);
-     background-color: #E9E7EA;
+     background-color: white;
  }
 
  .info ul {
