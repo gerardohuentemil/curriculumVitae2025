@@ -1,5 +1,5 @@
  body {
-     background-color: #D5D5D5;
+     background-color: white;
      font-family: system-ui;
  }
 
@@ -9,7 +9,7 @@
      max-width: 100%;
      margin: auto;
      padding: 50px;
-     box-shadow: 0 10px 50px #858585;
+     box-shadow: 0 10px 50px white;
      display: grid;
      grid-template-columns: 35% 60%;
      column-gap: 5%;
