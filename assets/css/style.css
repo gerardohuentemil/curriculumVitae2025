@@ -1,6 +1,6 @@
  body {
      background-color: white;
-     font-family: system-ui;
+     font-family: Calibri;
  }
 
  .container {
@@ -46,12 +46,12 @@
      letter-spacing: 3px;
  }
 
- .name .contact {
+ .name .contacto {
      padding: 0;
      list-style: none;
  }
 
- .name .contact span {
+ .name .contacto span {
      display: inline-block;
      background-color: #000;
      width: 20px;
@@ -63,7 +63,7 @@
      margin-right: 20px;
  }
 
- .name .contact li {
+ .name .contacto li {
      padding: 5px 0;
      transform: translate(-40px);
      background-color: white;
